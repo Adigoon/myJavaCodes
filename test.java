@@ -30,7 +30,7 @@ public class test {
 		
 		
 		else {
-			out.println();
+			out.println(); 
 		}
 
 	}
