@@ -26,5 +26,6 @@ class IntegerHolder {
 	    System.out.println(holder1.howMany);       // This statement is legal
 	                                               // but the statement is
 	                                               // misleading. Why?
-	  }
+		  				       // working on solving it.
+ 	  }
 	}
