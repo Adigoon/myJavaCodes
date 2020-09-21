@@ -71,8 +71,9 @@ public class tinyCalc {
 			out.println(num1 / num2);
 			break;
 		}
-		
-
+		// This might be the statement i 
+		// use to build the GUI behind my first calculator
+		// shoudlbe ready next month
 	}
 
 }
