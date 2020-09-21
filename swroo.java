@@ -65,7 +65,7 @@ public class swroo {
 			
 			
 			out.println("Goodbye");
-			s.close();
+			s.close(); 
 			
 	}
 
