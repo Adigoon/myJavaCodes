@@ -24,6 +24,7 @@ public class UsefulString {
 			else {
 				total = amount;
 			}
+		
 			
 			out.print("The total for " + fullName + " is" + " " + total);
 	}
