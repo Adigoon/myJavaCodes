@@ -16,7 +16,7 @@ class IntegerHolder {
 	    holder2.value = 443;
 	    IntegerHolder.howMany++;
 	 
-	    System.out.println(holder1.value);
+	    System.out.println(holder1.value); 
 	    System.out.println(holder2.value);
 	 
 	    System.out.println(IntegerHolder.howMany);
@@ -27,5 +27,8 @@ class IntegerHolder {
 	                                               // but the statement is
 	                                               // misleading. Why?
 		  				       // working on solving it.
+		  
+		  					//SOLVED
+		  
  	  }
 	}
