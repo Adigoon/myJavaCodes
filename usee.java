@@ -8,7 +8,7 @@ public class usee {
 		Scanner s = new Scanner(in);
 		char symbol = ' ';
 		
-		while (symbol != '@') {
+		while (symbol != '@') { 
 		symbol = s.findWithinHorizon(".", 0).charAt(0);
 		out.print(symbol);
 		}
