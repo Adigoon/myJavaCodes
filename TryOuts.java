@@ -17,7 +17,7 @@ class IntegerHolder {
 	    IntegerHolder.howMany++;
 	 
 	    System.out.println(holder1.value); 
-	    System.out.println(holder2.value);
+	    System.out.println(holder2.value); 
 	 
 	    System.out.println(IntegerHolder.howMany);
 	 
