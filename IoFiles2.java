@@ -6,7 +6,6 @@ public class IoFiles2 {
 		
 		
 		// TODO Auto-generated method stub
-
 	}
 
 }
