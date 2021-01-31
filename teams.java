@@ -14,7 +14,7 @@ public class teams {
 		System.out.println();
 		
 		if(hankees > socks) {
-			System.out.print("Hankees: ");
+			System.out.print("Hankees: "); 
 			System.out.println(hankees);
 			System.out.print("Socks: ");
 			System.out.println(socks);
