@@ -12,7 +12,7 @@ public class IOfiles {
 			double unitPrice, total; 
 			int quantity;
 			
-			unitPrice = s.nextDouble();
+			unitPrice = s.nextDouble(); 
 			quantity = s.nextInt();
 			
 			total = unitPrice * quantity;
